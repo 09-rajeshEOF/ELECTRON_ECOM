@@ -1,7 +1,12 @@
 {
   "expo": {
+<<<<<<< HEAD
     "name": "ELECTRON_ECOM",
     "slug": "ELECTRON_ECOM",
+=======
+    "name": "electron_ecom",
+    "slug": "snack-34137f64-6ec7-43a9-aeb8-15cba31289d4",
+>>>>>>> 2b12dd9 (add files)
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -22,6 +27,13 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+<<<<<<< HEAD
     }
   }
 }
+=======
+    },
+    "description": "1"
+  }
+}
+>>>>>>> 2b12dd9 (add files)
